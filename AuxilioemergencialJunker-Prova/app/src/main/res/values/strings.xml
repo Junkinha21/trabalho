@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Trabalho LucasJunker R.A 00203975</string>
+    <string name="title_activity_results">results</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="auxilio_emergencial">Auxilio emergencial</string>
+    <string name="digite_aqui_seu_cpf">Digite aqui seu cpf</string>
+    <string name="digite_sua_data_de_nascimento_aqui">Digite sua data de nascimento aqui</string>
+    <string name="digite_aqui_sua_renda_mensal">Digite aqui sua renda mensal</string>
+    <string name="solicitar">Solicitar</string>
+    <string name="dd_mm_yyyy_data_de_nascimento">dd/mm/yyyy Data de nascimento</string>
+    <string name="textview">TextView</string>
+    <string name="voc_recebera_seu_pagamento_no_dia">Você recebera seu pagamento no dia:</string>
+    <string name="voc_tem_a_receber_um_valor_de">Você tem a receber um valor de:</string>
+</resources>
